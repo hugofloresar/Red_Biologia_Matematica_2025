@@ -6,7 +6,7 @@ Este repositorio contiene los archivos utilizados en el **Minicurso: La Estadís
 
 ___________
 
-Las diapositivas Estadística_Filogenias1.pdf corresponden a la primera parte. Describen muy básicamente cómo funciona el BLAST para encontrar secuencias homólogas utilizando secuencias de amino ácidos.
+Las diapositivas Estadística_Filogenias1.pdf corresponden a la primera parte. Inician discutiendo el contexto y las herramientas a utilizar. Posteriormente, describen muy básicamente cómo funciona el BLAST para encontrar secuencias homólogas utilizando secuencias de amino ácidos.
 
 Las diapositivas Estadística_Filogenias2.pdf corresponden a la segunda parte. Describen muy básicamente algunos métodos para construir un árbol filogenético.
 
